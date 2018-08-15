@@ -76,7 +76,28 @@
       "books":[
                {
             "format":"pdf",
-            "book_id":"9990007",
+            "book_id":"99900071",
+            "title":"1923 - இராஜகோபாலார்யன் பதிப்பு1",
+            "epub_url":"https://ia601507.us.archive.org/29/items/aganaanooru/1923-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81,%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%811_k2opt.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         },
+         {
+            "format":"pdf",
+            "book_id":"99900072",
+            "title":"1923 - இராஜகோபாலார்யன் பதிப்பு",
+            "epub_url":"https://ia601507.us.archive.org/29/items/aganaanooru/1923-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81,%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D_k2opt.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         },
+         {
+            "format":"pdf",
+            "book_id":"99900073",
+            "title":"1926 - இராஜகோபாலார்யன் பதிப்பு",
+            "epub_url":"https://ia601507.us.archive.org/29/items/aganaanooru/1926-%20%E0%AE%85%E0%AE%95%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%82%E0%AE%B1%E0%AF%81,%20%E0%AE%87%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%AF%E0%AE%A9%E0%AF%8D._k2opt.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         },
+         {
+            "format":"pdf",
+            "book_id":"99900074",
             "title":"பாகம் 3",
             "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0534.pdf",
             "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
