@@ -1,0 +1,122 @@
+[
+   {
+      "title":"திருமுருகாற்றுப்படை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990009",
+            "title":"திருமுருகாற்றுப்படை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0493.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"பொருநராற்றுப்படை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990010",
+            "title":"பொருநராற்றுப்படை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0487.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"சிறுபாணாற்றுப்படை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990011",
+            "title":"சிறுபாணாற்றுப்படை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0483.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"பெரும்பாணாற்றுப்படை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990012",
+            "title":"பெரும்பாணாற்றுப்படை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0492.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"நெடுநல்வாடை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990013",
+            "title":"நெடுநல்வாடை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0484.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"குறிஞ்சிப் பாட்டு",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990014",
+            "title":"குறுந்தொகை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0495.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"முல்லைப்பாட்டு",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990015",
+            "title":"முல்லைப்பாட்டு",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0488.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"மதுரைக் காஞ்சி",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990016",
+            "title":"மதுரைக் காஞ்சி",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0496.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"பட்டினப் பாலை",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990017",
+            "title":"பட்டினப் பாலை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0077.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+},
+   {
+      "title":"மலைபடுகடாம்",
+      "books":[
+         {
+            "format":"pdf",
+            "book_id":"9990018",
+            "title":"குறுந்தொகை",
+            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0505.pdf",
+            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+         }
+      ]
+}
+]
