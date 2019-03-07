@@ -4,24 +4,24 @@
         "books": [
             {
                 "format": "pdf",
-                "book_id": "99900012",
-                "title": "1915- பின்னத்தூர் நாராயணசாமி ஐயர்",
-                "epub_url": "https://ia601503.us.archive.org/15/items/natrinai/1915-%E0%AE%A8%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%A3%E0%AF%88%20%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%82%E0%AE%B0%E0%AF%8D%20%E0%AE%A8%E0%AE%BE%E0%AE%B0%E0%AE%BE%E0%AE%AF%E0%AE%A3%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF%20%E0%AE%90%E0%AE%AF%E0%AE%B0%E0%AF%8D,._k2opt.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001004",
+                "title": "1915 - நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்",
+                "epub_url": "https://archive.org/download/nattrinai/1915-நற்றிணை பின்னத்தூர் நாராயணசாமி ஐயர்_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             },
             {
                 "format": "pdf",
-                "book_id": "99900013",
-                "title": "1942-43- சொற்பொழிவுகள்",
-                "epub_url": "https://ia801503.us.archive.org/15/items/natrinai/1942-43-%20%E0%AE%A8%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%A3%E0%AF%88%20%E0%AE%9A%E0%AF%8A%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_k2opt.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001005",
+                "title": "1942-43 - நற்றிணை சொற்பொழிவுகள்",
+                "epub_url": "https://archive.org/download/nattrinai/1942-43- நற்றிணை சொற்பொழிவுகள்_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             },
             {
                 "format": "pdf",
-                "book_id": "99900014",
-                "title": "1952- நற்றிணை",
-                "epub_url": "https://ia801503.us.archive.org/15/items/natrinai/1952-%20%E0%AE%A8%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BF%E0%AE%A3%E0%AF%88_k2opt.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001006",
+                "title": "1952 - நற்றிணை",
+                "epub_url": "https://archive.org/download/nattrinai/1952- நற்றிணை_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             },
             {
                 "format": "pdf",
@@ -117,10 +117,17 @@
         "books": [
             {
                 "format": "pdf",
-                "book_id": "9990004",
-                "title": "பதிற்றுப்பத்து",
-                "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0038.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001237",
+                "title": "1904 - பதிற்றுப்பத்து, உ.வே.சா ",
+                "epub_url": "https://archive.org/download/pathitru_pathu/1904-பதிற்றுப்பத்து, உ.வே.சா பதிப்பு.._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001238",
+                "title": "1920 - பதிற்றுப்பத்து, உ.வே.சா",
+                "epub_url": "https://archive.org/download/pathitru_pathu/1920-பதிற்றுப்பத்து, உ.வே.சா. பதிப்பு_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             }
         ]
     },
@@ -129,10 +136,17 @@
         "books": [
             {
                 "format": "pdf",
-                "book_id": "9990005",
-                "title": "பரிபாடல்",
-                "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0087.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001031",
+                "title": "1918 - பரிபாடல், மூலமும் உரையும்",
+                "epub_url": "https://archive.org/download/pari_paadal/1918-PARIPADAL MUMULAM_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001032",
+                "title": "1938 - பரிபாடல் வசனம், ந.சி.க",
+                "epub_url": "https://archive.org/download/pari_paadal/1938-பரிபாடல் வசனம், ந.சி.க._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             }
         ]
     },
@@ -340,10 +354,38 @@
         "books": [
             {
                 "format": "pdf",
-                "book_id": "9990008",
-                "title": "பாகம் 1",
-                "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0494_01.pdf",
-                "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                "book_id": "8001247",
+                "title": "1894 - புறநானூறு, உ.வே.சா",
+                "epub_url": "https://archive.org/download/pura_naanooru/1894- புறநானூறு, உ.வே.சா. பதிப்பு_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001248",
+                "title": "1911 - புறநானூறு, இளங்கலைப் பாடத்திட்டம்",
+                "epub_url": "https://archive.org/download/pura_naanooru/1911-புறநானூறு, இளங்கலைப் பாடத்திட்டம்_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001249",
+                "title": "1923 - புறநானூறு, உ.வே.சா",
+                "epub_url": "https://archive.org/download/pura_naanooru/1923- புறநானூறு, உ.வே.சா. பதிப்பு._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001250",
+                "title": "1935 - புறநானூறு, உ.வே.சா",
+                "epub_url": "https://archive.org/download/pura_naanooru/1935 உ.வே.சா._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001251",
+                "title": "1947 - புறநானூறு 1-200 ஔவை துரைசாமி உரை",
+                "epub_url": "https://archive.org/download/pura_naanooru/1947-புறநானூறு 1-200 ஔவை துரைசாமி உரை._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             }
         ]
     }
