@@ -4,10 +4,80 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990009",
+                        "book_id": "8001176",
+                        "title": "1839 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1839- திருமுருகாற்றுப்படை._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001177",
+                        "title": "1853 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1853- திருமுருகாற்றுப்படை._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001178",
+                        "title": "1873 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1873- திருமுருகாற்றுப்படை_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001179",
+                        "title": "1902 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1902- திருமுருகாற்றுப்படை_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001180",
+                        "title": "1920 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1920- திருமுருகாற்றுப்படை._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001181",
+                        "title": "1922 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1922-திருமுருகாற்றுப்படை., பூமகள் பதிப்பகம்_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001182",
+                        "title": "1927 - திருமுருகாற்றுப்படை",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1927- திருமுருகாற்றுப்படை._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001183",
+                        "title": "1949 - திருமுருகாற்றுப்படை, கி.வா.ஜ",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/1949-திருமுருகாற்றுப்படை  கி.வா.ஜ_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001184",
                         "title": "திருமுருகாற்றுப்படை",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0493.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/orr-8718_Thirumurugatruppadai_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001185",
+                        "title": "திருமுருகாற்றுப்படை, பொன்னையா முதலியார்",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/பொன்னையா முதலியார்_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001186",
+                        "title": "திருமுருகாற்றுப்படை, ஸி.பி. வெங்கட்ராம ஐயர்",
+                        "epub_url": "https://archive.org/download/thirumurugatrupadai/ஸி.பி. வெங்கட்ராம ஐயர்_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },
