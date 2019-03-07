@@ -322,10 +322,17 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990035",
-                        "title": "கைந்நிலை",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0051.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "book_id": "8001159",
+                        "title": "1917 - இன்னிலை, வ.உ.சி",
+                        "epub_url": "https://archive.org/download/innilai/1917-இன்னிலை, வ.உ.சி_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001160",
+                        "title": "1961 - இன்னிலை கைந்நிலை",
+                        "epub_url": "https://archive.org/download/innilai/1961 இன்னிலை கைந்நிலை_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },
