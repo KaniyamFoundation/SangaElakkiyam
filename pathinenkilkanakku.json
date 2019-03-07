@@ -189,10 +189,31 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990028",
-                        "title": "முதுமொழிக்காஞ்சி",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "book_id": "8001166",
+                        "title": "1911 - முதுமொழிக்காஞ்சி",
+                        "epub_url": "https://archive.org/download/muthumozhi_kanchi/1911- முதுமொழிக்காஞ்சி (2)_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001167",
+                        "title": "1915 - முதுமொழிக்காஞ்சி",
+                        "epub_url": "https://archive.org/download/muthumozhi_kanchi/1915-முதுமொழிக் காஞ்சி._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001168",
+                        "title": "1919 - முதுமொழிக்காஞ்சி",
+                        "epub_url": "https://archive.org/download/muthumozhi_kanchi/1919- முதுமொழிக்காஞ்சி_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001169",
+                        "title": "முதுமொழிக் காஞ்சி",
+                        "epub_url": "https://archive.org/download/muthumozhi_kanchi/முதுமொழிக் காஞ்சி ஆண்டு இல்லை_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },

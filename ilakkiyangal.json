@@ -1,2 +1,77 @@
 [
+    {
+        "title": "மணிமேகலை",
+        "books": [
+            {
+                "format": "pdf",
+                "book_id": "8001252",
+                "title": "1894 - Manimegalai",
+                "epub_url": "https://archive.org/download/manimegalai/1894-MANAIMAGALAI_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001253",
+                "title": "1898 - மணிமேகலை, மூலமும் உரையும்",
+                "epub_url": "https://archive.org/download/manimegalai/1898-Manimegalai Moolamum Uraiyum_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001254",
+                "title": "1911 - மணிமேகலை",
+                "epub_url": "https://archive.org/download/manimegalai/1911-MANIMEKHALAI_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001255",
+                "title": "1921 - மணிமேகலை",
+                "epub_url": "https://archive.org/download/manimegalai/1921-Manimegalai._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001256",
+                "title": "1923 - மணிமேகலை",
+                "epub_url": "https://archive.org/download/manimegalai/1923-MANIMEKALAI_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001257",
+                "title": "1928 - Manimegalai In Its Historical Settings",
+                "epub_url": "https://archive.org/download/manimegalai/1928-MANIMEKHALAI IN ITS HISTORICAL SETTINGS_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001258",
+                "title": "1942 - மணிமேகலை ஆராய்ச்சி",
+                "epub_url": "https://archive.org/download/manimegalai/1942-முப்பெருங்-காவியங்களில்-ஒன்றன-மணிமேகலை-ஆராய்ச்சி_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001259",
+                "title": "1943 - மணிமேகலைச் சுருக்கம்",
+                "epub_url": "https://archive.org/download/manimegalai/1943-மணிமேகலைச்-சுருக்கம்_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001260",
+                "title": "1946 - மணிமேகலை",
+                "epub_url": "https://archive.org/download/manimegalai/1946_மணிமேகலை_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },
+            {
+                "format": "pdf",
+                "book_id": "8001261",
+                "title": "1949 - மணிமேகலை, உ.வே.சா. பதிப்பு",
+                "epub_url": "https://archive.org/download/manimegalai/1949- மணிமேகலை, உ.வே.சா. பதிப்பு._k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            }
+        ]
+    }
 ]

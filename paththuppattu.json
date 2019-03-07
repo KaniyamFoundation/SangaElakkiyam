@@ -102,10 +102,17 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990016",
+                        "book_id": "8001029",
+                        "title": "1931 - உ.வே.சா",
+                        "epub_url": "https://archive.org/download/madurai_kanchi/1931 உ.வே.சா._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001030",
                         "title": "மதுரைக் காஞ்சி",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0496.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "epub_url": "https://archive.org/download/madurai_kanchi/மதுரைக் காஞ்சி_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },
@@ -126,10 +133,10 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990018",
-                        "title": "குறுந்தொகை",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0505.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "book_id": "8001007",
+                        "title": "1912 - உ.வே.சாமிநாதையர்",
+                        "epub_url": "https://archive.org/download/malai_padu_kadaam/1912 உ.வே.சாமிநாதையர்_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       }
