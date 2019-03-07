@@ -146,13 +146,20 @@
    {
       "title":"ஐந்திணை ஐம்பது",
       "books":[
-        {
-            "format":"pdf",
-            "book_id":"9990031",
-            "title":"ஐந்திணை ஐம்பது",
-            "epub_url":"http://www.projectmadurai.org/pm_etexts/pdf/pm0027.pdf",
-            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
-}
+            {
+                  "format": "pdf",
+                  "book_id": "8001144",
+                  "title": "1912 - ஐந்திணை ஐம்பது மூலமும் உரையும்",
+                  "epub_url": "https://archive.org/download/ainthinai_50/1912 ஐந்திணை ஐம்பது மூலமும் உரையும்_k2opt.pdf",
+                  "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+              },
+              {
+                  "format": "pdf",
+                  "book_id": "8001145",
+                  "title": "ஐந்திணை ஐம்பது",
+                  "epub_url": "https://archive.org/download/ainthinai_50/ஐந்திணை ஐம்பது_k2opt.pdf",
+                  "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+              }
       ]
 },
    {

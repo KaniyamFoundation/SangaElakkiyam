@@ -74,25 +74,27 @@
    {
       "title":"ஐங்குறுநூறு",
       "books":[
-         {
-            "format":"pdf",
-            "book_id":"99900031",
-            "title":"1903- உ.வே.சா. பதிப்பு",
-            "epub_url":"https://ia801507.us.archive.org/2/items/ingurunooru/1903-%20%E0%AE%90%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%20%E0%AE%A8%E0%AF%82%E0%AE%B1%E0%AF%81,%20%E0%AE%89.%E0%AE%B5%E0%AF%87.%E0%AE%9A%E0%AE%BE.%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_k2opt.pdf",
-            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
-         },{
-            "format":"pdf",
-            "book_id":"99900032",
-            "title":"1920- உ.வே.சா பதிப்பு",
-            "epub_url":"https://ia801507.us.archive.org/2/items/ingurunooru/1920-%20%E0%AE%90%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%A8%E0%AF%82%E0%AE%B1%E0%AF%81,%20%E0%AE%89.%E0%AE%B5%E0%AF%87.%E0%AE%9A%E0%AE%BE%20%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81._k2opt.pdf",
-            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
-         },{
-            "format":"pdf",
-            "book_id":"99900033",
-            "title":"1938- ஔவை துரைசாமி",
-            "epub_url":"https://ia601507.us.archive.org/2/items/ingurunooru/1938-%20%E0%AE%90%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AF%81%E0%AE%A8%E0%AF%82%E0%AE%B1%E0%AF%81%20%E0%AE%94%E0%AE%B5%E0%AF%88%20%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%9A%E0%AE%BE%E0%AE%AE%E0%AE%BF_k2opt.pdf",
-            "cover_url":"https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
-         }
+        {
+            "format": "pdf",
+            "book_id": "8001071",
+            "title": "1903 - ஐங்குறு நூறு, உ.வே.சா. பதிப்பு",
+            "epub_url": "https://archive.org/download/ainguru_nooru/1903- ஐங்குறு நூறு, உ.வே.சா. பதிப்பு_k2opt.pdf",
+            "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+        },
+        {
+            "format": "pdf",
+            "book_id": "8001072",
+            "title": "1920 - ஐங்குறுநூறு, உ.வே.சா பதிப்பு",
+            "epub_url": "https://archive.org/download/ainguru_nooru/1920- ஐங்குறுநூறு, உ.வே.சா பதிப்பு._k2opt.pdf",
+            "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+        },
+        {
+            "format": "pdf",
+            "book_id": "8001073",
+            "title": "1938 - ஐங்குறுநூறு, ஔவை துரைசாமி",
+            "epub_url": "https://archive.org/download/ainguru_nooru/1938- ஐங்குறுநூறு ஔவை துரைசாமி_k2opt.pdf",
+            "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+        }
       ]
    },
    {
