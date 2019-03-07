@@ -87,10 +87,17 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990023",
-                        "title": "களவழி நாற்பது",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0025.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "book_id": "8001026",
+                        "title": "1913 - களவழி நாற்பது",
+                        "epub_url": "https://archive.org/download/kalavazhi_40/1913 களவழி நாற்பது_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001027",
+                        "title": "1924 - களவழி நாற்பது",
+                        "epub_url": "https://archive.org/download/kalavazhi_40/1924-களவழி நாற்பது._k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },
@@ -241,10 +248,31 @@
             "books": [
                   {
                         "format": "pdf",
-                        "book_id": "9990030",
-                        "title": "கார் நாற்பது",
-                        "epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0029.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                        "book_id": "8001162",
+                        "title": "1918 - கார் நாற்பது",
+                        "epub_url": "https://archive.org/download/kaar_40/1918- கார் நாற்பது_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001163",
+                        "title": "1924 - கார் நாற்பது",
+                        "epub_url": "https://archive.org/download/kaar_40/1924 கார் நாற்பது_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001164",
+                        "title": "1925 - கார் நாற்பது",
+                        "epub_url": "https://archive.org/download/kaar_40/1925-கார் நாற்பது_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001165",
+                        "title": "கார் நாற்பது, சண்முக சுந்தரனார் பரிசோதித்தது",
+                        "epub_url": "https://archive.org/download/kaar_40/கார் நாற்பது, சண்முக சுந்தரனார் பரிசோதித்தது_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
       },
@@ -332,6 +360,13 @@
                         "book_id": "8001160",
                         "title": "1961 - இன்னிலை கைந்நிலை",
                         "epub_url": "https://archive.org/download/innilai/1961 இன்னிலை கைந்நிலை_k2opt.pdf",
+                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+                  },
+                  {
+                        "format": "pdf",
+                        "book_id": "8001188",
+                        "title": "Kainilai - Pullangaadanaar",
+                        "epub_url": "https://archive.org/download/kainilai/Kainilai - Pullangaadanaar_k2opt.pdf",
                         "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
                   }
             ]
