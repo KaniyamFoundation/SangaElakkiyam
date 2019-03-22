@@ -386,6 +386,14 @@
                 "epub_url": "https://archive.org/download/pura_naanooru/1894- புறநானூறு, உ.வே.சா. பதிப்பு_k2opt.pdf",
                 "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
             },
+
+            {
+                "format": "pdf",
+                "book_id": "8002013",
+                "title": "1894 புறநானூறு மூலமும் உரையும்",
+                "epub_url": "https://archive.org/download/pura_naanooru/1894-PuraNaanooru Moolamum Uraiyum_k2opt.pdf",
+                "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+            },                                 
             {
                 "format": "pdf",
                 "book_id": "8001248",
