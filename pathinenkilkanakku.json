@@ -71,13 +71,13 @@
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
 
-                  {
-                        "format": "pdf",
-                        "book_id": "8002036",
-                        "title": "1861 திருக்குறள் சரவணப் பெருமாளையர் பதிப்பு",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1861 திருக்குறள் சரவணப் பெருமாளையர் பதிப்பு_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002036",
+				"title": "1861 திருக்குறள் சரவணப் பெருமாளையர் பதிப்பு",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1861 திருக்குறள் சரவணப் பெருமாளையர் பதிப்பு_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001084",
@@ -106,13 +106,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1873- குறள் மூலமும் உரையும்._k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002037",
-                        "title": "1875 திருக்குறள் ஆறுமுக நாவலர் பதிப்பு",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1875 திருக்குறள் ஆறுமுக நாவலர் பதிப்பு._k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002037",
+				"title": "1875 திருக்குறள் ஆறுமுக நாவலர் பதிப்பு",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1875 திருக்குறள் ஆறுமுக நாவலர் பதிப்பு._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001088",
@@ -127,14 +127,14 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1883-திருக்குறள் சரவணப்பெருமாளையர்._k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                      
-                  {
-                        "format": "pdf",
-                        "book_id": "8002038",
-                        "title": "1885 திருக்குறள் பரிமேலழகருரை",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1885 திருக்குறள் பரிமேலழகருரை_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+
+			{
+				"format": "pdf",
+				"book_id": "8002038",
+				"title": "1885 திருக்குறள் பரிமேலழகருரை",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1885 திருக்குறள் பரிமேலழகருரை_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001090",
@@ -142,13 +142,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1893- திருக்குறள் மூலம் கருத்துரை._k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002039",
-                        "title": "1899 திருக்குறள்",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1899 திருக்குறள்_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002039",
+				"title": "1899 திருக்குறள்",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1899 திருக்குறள்_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001091",
@@ -191,13 +191,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1916-The Kural or The Maxims of Tiruvalluvar- vvs ayyar_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002040",
-                        "title": "1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002040",
+				"title": "1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1917- திருக்குறள் மணக்குடவர் உரை- வ.உ.சி. பதிப்பு_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001097",
@@ -282,13 +282,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1924-Thirukkural.._k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002042",
-                        "title": "1925 திருக்குறள் மூலமும் உரையும்",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1925-Thirukkural Moolamum Manakkudavar Uraiyum_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002042",
+				"title": "1925 திருக்குறள் மூலமும் உரையும்",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1925-Thirukkural Moolamum Manakkudavar Uraiyum_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001109",
@@ -324,13 +324,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1926-Thirukkural Vilakkam Moonram Paagam_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002043",
-                        "title": "1928 திருக்குறள் சரவணப் பெருமாளையருரை",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1928 திருக்குறள் சரவணப் பெருமாளையருரை._k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002043",
+				"title": "1928 திருக்குறள் சரவணப் பெருமாளையருரை",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1928 திருக்குறள் சரவணப் பெருமாளையருரை._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001114",
@@ -366,13 +366,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1929-திருவள்ளூவர், கோவிந்தராஜ தாஸர்_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002045",
-                        "title": "1930 சோமேசர் முதுமொழி வெண்பா",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1930 சோமேசர் முதுமொழி வெண்பா _k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002045",
+				"title": "1930 சோமேசர் முதுமொழி வெண்பா",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1930 சோமேசர் முதுமொழி வெண்பா _k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001119",
@@ -387,13 +387,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1930-Thirukkural Moolam_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002046",
-                        "title": "1931 திருக்குறள் பரிமேலழகர் உரை",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1931 திருக்குறள் பரிமேலழகர் உரை._k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002046",
+				"title": "1931 திருக்குறள் பரிமேலழகர் உரை",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1931 திருக்குறள் பரிமேலழகர் உரை._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001121",
@@ -408,13 +408,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1933- திருக்குற-அரங்கநாத.. உரை_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002047",
-                        "title": "1934 Thiruvalluvar A Study",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1934 Thiruvalluvar A Study. pdf_k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002047",
+				"title": "1934 Thiruvalluvar A Study",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1934 Thiruvalluvar A Study. pdf_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001123",
@@ -443,13 +443,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1937-திருக்குறள், வை.மு.கோ._k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002048",
-                        "title": "1938 திருக்குறள் பரிமேலழகர் உரை",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1938 திருக்குறள் பரிமேலழகர் உரை._k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002048",
+				"title": "1938 திருக்குறள் பரிமேலழகர் உரை",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1938 திருக்குறள் பரிமேலழகர் உரை._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001127",
@@ -527,13 +527,13 @@
 				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1948-திருக்குறள்- பரிப்பெரு.காலிங்கர் உரை_k2opt.pdf",
 				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
 			},
-                  {
-                        "format": "pdf",
-                        "book_id": "8002049",
-                        "title": "1949 திருக்குறள் சக்ரவர்த்தி நயினார் உரை",
-                        "epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1949 திருக்குறள் சக்ரவர்த்தி நயினார் உரை._k2opt.pdf",
-                        "cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
-                  },                      
+			{
+				"format": "pdf",
+				"book_id": "8002049",
+				"title": "1949 திருக்குறள் சக்ரவர்த்தி நயினார் உரை",
+				"epub_url": "https://archive.org/download/thirukkural_sanga_ilakkiyam/1949 திருக்குறள் சக்ரவர்த்தி நயினார் உரை._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
 			{
 				"format": "pdf",
 				"book_id": "8001138",
@@ -1085,6 +1085,35 @@
 			}
 		]
 	},
+
+
+	{
+		"title": "பதினெண்கீழ்க்கணக்கு தொகுப்புகள்",
+		"books": [{
+				"format": "pdf",
+				"book_id": "8002050",
+				"title": "1911-பதினெண்கீழ்க் கணக்கு syllabus",
+				"epub_url": "https://archive.org/download/18_extra/1911-பதினெண்கீழ்க் கணக்கு syllabus_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+			{
+				"format": "pdf",
+				"book_id": "8002051",
+				"title": "1925- நானாற்பது",
+				"epub_url": "https://archive.org/download/18_extra/1925- நானாற்பது._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+			{
+				"format": "pdf",
+				"book_id": "8002052",
+				"title": "நான்மணிக்கடிகை முதலியன",
+				"epub_url": "https://archive.org/download/18_extra/நான்மணிக்கடிகை முதலியன_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/KaniyamFoundation/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			}
+		]
+	},
+
+
 	{
 		"title": "நாலடியார்",
 		"books": [{
