@@ -234,12 +234,51 @@
 	{
 		"title": "முல்லைப்பாட்டு",
 		"books": [{
-			"format": "pdf",
-			"book_id": "9990015",
-			"title": "முல்லைப்பாட்டு",
-			"epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0488.pdf",
-			"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
-		}]
+				"format": "pdf",
+				"book_id": "9990015",
+				"title": "முல்லைப்பாட்டு",
+				"epub_url": "http://www.projectmadurai.org/pm_etexts/pdf/pm0488.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+			{
+				"format": "pdf",
+				"book_id": "8002069",
+				"title": "1903 முல்லைப்பாட்டு உ.வே.சா.",
+				"epub_url": "https://archive.org/download/mullai_pattu/1903 உ.வே.சா._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+			{
+				"format": "pdf",
+				"book_id": "8002070",
+				"title": "1910 முல்லைப்பாட்டு உ.வே.சா.",
+				"epub_url": "https://archive.org/download/mullai_pattu/1910 உ.வே.சா._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+			{
+				"format": "pdf",
+				"book_id": "8002071",
+				"title": "1911 முல்லைப்பாட்டு வேதாச்சலம்",
+				"epub_url": "https://archive.org/download/mullai_pattu/1911 வேதாச்சலம்._k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+
+			{
+				"format": "pdf",
+				"book_id": "8002073",
+				"title": "1958 முல்லைப்பாட்டு ஆராய்ச்சியுரை",
+				"epub_url": "https://archive.org/download/mullai_pattu/1958_முல்லைப்பாட்டு_ஆராய்ச்சியுரை_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			},
+
+			{
+				"format": "pdf",
+				"book_id": "8002075",
+				"title": "1962 முல்லைப்பாட்டு ஆராய்ச்சியுரை",
+				"epub_url": "https://archive.org/download/mullai_pattu/1962-முல்லைப்பாட்டு_ஆராய்ச்சியுரை (1)_k2opt.pdf",
+				"cover_url": "https://raw.githubusercontent.com/khaleeljageer/SangaElakkiyam/master/pdf_preview_img_1024.png"
+			}
+
+		]
 	},
 	{
 		"title": "மதுரைக் காஞ்சி",
