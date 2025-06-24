@@ -1,7 +1,24 @@
-[
-  "எட்டுத்தொகை",
-  "பத்துப்பாட்டு",
-  "பதினெண்கீழ்க்கணக்கு",
-  "இலக்கணம்",
-  "காப்பியம்"
-]
+{
+  "categories": [
+    {
+      "label": "எட்டுத்தொகை",
+      "books": "ettuthogai.json"
+    },
+    {
+      "label": "பத்துப்பாட்டு",
+      "books": "paththuppattu.json"
+    },
+    {
+      "label": "பதினெண்கீழ்க்கணக்கு",
+      "books": "pathinenkilkanakku.json"
+    },
+    {
+      "label": "இலக்கணம்",
+      "books": "ilakkanangal.json"
+    },
+    {
+      "label": "காப்பியம்",
+      "books": "ilakkiyangal.json"
+    }
+  ]
+}
